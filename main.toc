@@ -1,0 +1,10 @@
+\contentsline {chapter}{Abstract}{1}{chapter*.1}
+\contentsline {section}{Indledning}{1}{section*.2}
+\contentsline {subsection}{Problemformulering}{1}{section*.3}
+\contentsline {section}{Teorigennemgang}{1}{section*.4}
+\contentsline {section}{Empirisk fremstilling}{1}{section*.5}
+\contentsline {section}{Analyse/Diskussion}{1}{section*.6}
+\contentsline {section}{Konklusion}{1}{section*.7}
+\contentsline {section}{Litteraturliste}{1}{section*.8}
+\contentsline {subsection}{Kildehenvisning i tekst}{2}{section*.9}
+\contentsline {subsection}{Bibliografi}{2}{section*.10}

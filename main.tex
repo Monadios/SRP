@@ -1,0 +1,46 @@
+\documentclass[12pt]{report}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\setcounter{secnumdepth}{0}
+\usepackage[margin=1.1in]{geometry}
+\usepackage{authblk}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\renewcommand{\contentsname}{Indholdsfortegnelse}
+\usepackage{fancyhdr}
+\author{Gustav Stokholm Falkenthros}
+\affil{Erik Lund}
+\date{\today}
+\title{SRP-LITE}
+\pagestyle{fancy}
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+\fancyhead[LE,RO]{Klasse: 2.z}
+\fancyhead[LO]{Gustav Stokholm Falkenthros}
+\newpage
+% Abstract
+\begin{abstract}
+\end{abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+\input{sections/intro}
+\input{sections/teori}
+\input{sections/empiri}
+\input{sections/analyse}
+\input{sections/konklusion}
+\input{sections/biblo}
+\end{document}
